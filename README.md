@@ -3,7 +3,7 @@
 This project is an **HR Analytics Dashboard** developed using **Microsoft Power BI**.
 The dashboard provides interactive insights into employee attrition, demographics, job roles, departments, education fields, job satisfaction, business travel, and employee compensation.
 ## 🖼️ Dashboard Preview
-![HR Analytics Dashboard](Screenshots/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 ## 📌 Key Metrics
 * **Total Employees:** 1,470
 * **Total Attrition:** 237
